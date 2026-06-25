@@ -1,6 +1,4 @@
 # tikla.cz
-tikla </br>
-
-tikla </br>
-
-tikla </br>
+tikla
+tikla
+tikla
